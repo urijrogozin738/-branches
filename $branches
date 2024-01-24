@@ -1,0 +1,3 @@
+class GitRepository {
+    private $branches;
+    private $currentBranch;
